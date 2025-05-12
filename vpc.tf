@@ -4,4 +4,3 @@ resource "aws_vpc" "main"{
         Name = "main-aws_vpc"
     }
 }
-resource aws_vpc
